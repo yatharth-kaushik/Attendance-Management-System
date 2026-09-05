@@ -163,7 +163,6 @@ def ViewStudentRecord():
 
     roll = input("Enter Roll Number :- ")
 
-    # Pehle student ka naam aur branch find karenge
     student_name = None
     student_branch = None
 
